@@ -1,0 +1,16 @@
+{
+	"name": "hotdra/data-creator",
+    "description": "A simple PHP Data Creator",
+    "authors": [
+    	{
+    		"name": "Tatsuya Hotta"
+    	}
+    ],
+    "require": {
+ 		"php": ">=5.4.0",    	
+        "CodePlex/PHPExcel": "1.7.7"
+    },
+    "autoload": {
+        "psr-0": { "Hotdra": "src/" }
+    }
+}
